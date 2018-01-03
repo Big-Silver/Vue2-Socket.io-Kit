@@ -1,0 +1,9 @@
+{
+	"asi": true,
+	"eqeqeq": false,
+	"lastsemic": true,
+	"latedef": true,
+	"node": true,
+	"strict": false,
+	"esversion": 6
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="38px" viewBox="0 0 43 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Cover</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-284.000000, -105.000000)" fill="#7872FF">
+            <path d="M291,107 L320,107 L320,137 L291,137 L291,107 Z M294,110 L294,120 L317,120 L317,110 L294,110 Z M294,123 L294,134 L304,134 L304,123 L294,123 Z M307,123 L307,134 L317,134 L317,123 L307,123 Z M291,107 L297,107 L297,110 L291,110 L291,107 Z M291,110 L291,113 L294,113 L294,110 L291,110 Z" id="logo-4" transform="translate(305.500000, 122.000000) rotate(45.000000) translate(-305.500000, -122.000000) "></path>
+        </g>
+    </g>
+</svg>
